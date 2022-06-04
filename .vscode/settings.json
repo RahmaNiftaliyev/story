@@ -1,0 +1,12 @@
+{
+    "yaml.schemas": {
+        "https://json.schemastore.org/github-workflow.json": {
+            "fileMatch": [
+                "**/workflows/*.yml"
+            ],
+            "url": "https://raw.githubusercontent.com/github/workflow-schema/master/schema.json"
+        }
+    },
+    "findUnusedExports.detectCircularImports": true,
+    
+}
